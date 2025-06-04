@@ -2,11 +2,13 @@
     padding: 10px;
     text-align: center;
     
+    
 }
 nav ul {
     text-align:center;
     list-style: none;
     margin-bottom:15px;
+    
 }
 nav ul {
     text-align:center;
@@ -16,13 +18,16 @@ nav ul {
 
 nav li {
    display: inline-block;
+   
 }
 nav a {
     padding:9px;
     display: block;
     width: 250px;
     text-decoration: none;
-    color:#40272c; 
+    color:#40272c;  
+    border-radius: 10px;
+
    
    
     
@@ -37,6 +42,7 @@ nav a:hover {
     margin-top: 20px;
     padding: 40px;
     border-radius: 8px;
+   
     
    }
 
@@ -46,12 +52,32 @@ footer{
     padding:9px;
     background-color:#609D39;
     clear:both;
+    text-align: center;
+    position: relative;
+    
 
 }
 h1{
-    color:#40272c;
+    color:#40272c; 
+    text-align: center;
+    font-size: 2em;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
 }
 h2{
     color: #40272c;
-    text-align: center;}
+    text-align: center;
+    font-size: 1.5em;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
 
+.info{
+    text-align: center;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+}
