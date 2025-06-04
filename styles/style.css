@@ -1,0 +1,57 @@
+.navbar{
+    padding: 10px;
+    text-align: center;
+    
+}
+nav ul {
+    text-align:center;
+    list-style: none;
+    margin-bottom:15px;
+}
+nav ul {
+    text-align:center;
+    list-style: none;
+    margin-bottom:15px;
+}
+
+nav li {
+   display: inline-block;
+}
+nav a {
+    padding:9px;
+    display: block;
+    width: 250px;
+    text-decoration: none;
+    color:#40272c; 
+   
+   
+    
+}
+nav a:hover {
+    background-color: #609D39;
+}
+
+.search-bar {
+    float:right;
+    width: auto;
+    margin-top: 20px;
+    padding: 40px;
+    border-radius: 8px;
+    
+   }
+
+
+footer{
+    color:#40272c;
+    padding:9px;
+    background-color:#609D39;
+    clear:both;
+
+}
+h1{
+    color:#40272c;
+}
+h2{
+    color: #40272c;
+    text-align: center;}
+
